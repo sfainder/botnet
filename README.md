@@ -1,2 +1,1 @@
-# botnet
-Акция в поддержку ботнета
+# help to viks robots
